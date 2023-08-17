@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div-->
 ### :man_technologist: About Me : I am a self taught Developer from Kenya.<br>
-- :zap: In my free time, I try to learn a new programming concept from the university of Youtube and read tech articles to keep up with trends in the vast IT field.
+- :zap: In my free time, I try to learn a new programming concept and read tech articles to keep up with trends in the vast IT field.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
