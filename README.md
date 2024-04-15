@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <h1> Hi there, I'm Henry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Welcome to my GitHub profile!. I'm a backend developer passionate about building scalable and efficient systems. 
+I'm a backend developer passionate about building scalable and efficient systems. 
 </div>
 
 ---
