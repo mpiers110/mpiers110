@@ -35,9 +35,8 @@ I'm a backend developer passionate about building scalable and efficient systems
 ---
 ## :fire: My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpiers110&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpiers110&show_icons=true&locale=en&layout=compact" alt="tech_tafari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpiers110&show_icons=true&locale=en" alt="tech_tafari" /></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpiers110&show_icons=true&locale=en" alt="tech_tafari" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpiers110&" alt="tech_tafari" /></p>
 
