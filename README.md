@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <h1> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm a software developer passionate about building scalable and efficient systems. 
+I build for the web—tools, platforms, and ideas that make life easier. Sometimes that means automating the boring stuff, other times it’s crafting smooth, intuitive experiences that just feel right. Either way, I like my code clean, my systems efficient, and my solutions practical.
+
+Tech moves fast, and I’m always building, learning, and refining. If it can be done better, I’ll find a way.
 </div>
 
 ---
 ## :man_technologist: About Me
 
-- 💻 Software Developer ```(Python, PHP, JavaScript)```
+- 💻 Software Developer
+- 🛠️ Indie Maker
 - 🌱 Always learning and exploring new technologies
 - 📚 Cyber security enthusiast
 - 🎯 Problem solver
@@ -42,5 +45,3 @@ I'm a software developer passionate about building scalable and efficient system
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpiers110&" alt="tech_tafari" /></p>
 -->
-
-Feel free to reach out. I'm always excited to collaborate and contribute to interesting initiatives!
