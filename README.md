@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <h1> Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I build for the web—tools, platforms, and ideas that make life easier. Sometimes that means automating the boring stuff, other times it’s crafting smooth, intuitive experiences that just feel right. Either way, I like my code clean, my systems efficient, and my solutions practical.
+I build for the web - tools, platforms, and ideas that make life easier. Sometimes that means automating the boring stuff, other times it’s crafting smooth, intuitive experiences that just feel right. Either way, I like my code clean, my systems efficient, and my solutions practical.
 
 Tech moves fast, and I’m always building, learning, and refining. If it can be done better, I’ll find a way.
 </div>
