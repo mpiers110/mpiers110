@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 </h1>
 I build for the web - tools, platforms, and ideas that make life easier. Sometimes that means automating the boring stuff, other times it’s crafting smooth, intuitive experiences that just feel right. Either way, I like my code clean, my systems efficient, and my solutions practical.
 
-Tech moves fast, and I’m always building, learning, and refining. If it can be done better, I’ll find a way.
+Tech moves fast, and I’m always building, learning, and refining.
+<!--Garbage collection is a billion dollar industry.
+If it can be done better, I’ll find a way.-->
 </div>
 
 ---
